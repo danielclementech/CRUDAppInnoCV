@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CRUDApp</string>
+
+    <string name="new_user_name_title">Name:</string>
+    <string name="new_user_birthdate_title">Birthdate:</string>
+    <string name="save_button">SAVE</string>
+    <string name="delete_button">DELETE</string>
+    <string name="loading">LOADING...</string>
+    <string name="post_failed_title">New user not created</string>
+    <string name="post_failed_text">There has been a mistake</string>
+    <string name="name_empty_title">Name empty</string>
+    <string name="name_empty_text">Please complete the name field</string>
+    <string name="ok_alert">OK</string>
+    <string name="cancel_alert">CANCEL</string>
+    <string name="delete_user_alert_title">Are you sure?</string>
+    <string name="delete_user_alert_text">You are going to delete the user</string>
+    <string name="button_disabled">Save button disabled because no changes made in the user</string>
+    <string name="info_list">Tap a user to edit it</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
